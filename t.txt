@@ -1,0 +1,5 @@
+what the index of h in hello:0
+what is the hello.index("o"):4
+what is the len("ww"):2
+what is the "aa".upper():AA
+can you use len() with list:yes
