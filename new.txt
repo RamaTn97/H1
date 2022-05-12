@@ -1,0 +1,4 @@
+what the index of h in hello:0
+ true/nwhat is the hello.index("o"):4
+ true/nwhat is the len("ww"):2
+ true/ncan you use len() with list:yes true/n4
